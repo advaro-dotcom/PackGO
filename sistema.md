@@ -1,5 +1,5 @@
 # 1. Composició del sistema
-El sistema informàtic de PackGo servirà per organitzar els paquets que arribin al punt de repartiment de cada poble i fer mes facil la feina dels treballadors. La idea és que el sistema pugui registrar els paquets, guardar la informació de cada un i ajudar a organitzar els repartiments automàticament.
+El sistema informàtic de PackGo sera per organitzar els paquets que arribin al punt de repartiment de cada poble i fer mes facil la feina dels treballadors de les empreses grans com amazon. La idea és que el sistema pugui registrar els paquets, guardar la informació de cada un i ajudar a organitzar els repartiments automàticament.
 El sistema tindra hardware i software.
 ## Hardware:
 Ordinador: s'utilitzarà al punt de repartiment per gestionar els paquets, veure la informació i organitzar els repartiments.
@@ -9,7 +9,7 @@ Impressora: servirà per imprimir etiquetes o informació dels paquets.
 ## Software:
 Programa de gestió de paquets: serà el programa principal de PackGo. Servirà per registrar els paquets, veure la informació i organitzar els repartiments.
 Base de dades: guardarà tota la informació dels paquets, com el destinatari, l'adreça, el codi del paquet i el seu estat.
-Sistema d'organització dels repartiments: servirà per agrupar els paquets i decidir com s'han de repartir.
+Sistema per organizar els paquet: servirà per organitzar els paquets i decidir com es repartiran.
 Sistema d'usuaris: permetrà que cada treballador entri al sistema.
 # 2. Estructura del sistema
 Quan les grans empreses deixin els paquets al punt de repartiment, un treballador els posara al sistema informàtic amb el lector de codis de barres. Així la informació de cada paquet quedarà guardada a la base de dades.
