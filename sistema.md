@@ -36,13 +36,12 @@ Tot això servirà perquè els treballadors tinguin la informació dels paquets 
 # 3. Entorn del sistema
 
 El sistema informàtic de PackGo tindrà diferents usuaris que l'utilitzaran per fer les seves tasques.
+Els usuaris de PackGo seran les persones que faran servir el sistema per treballar. Cada un tindrà una feina diferent:
 
-Els usuaris seran:
+- **Administrador:** serà qui porti el control de PackGo. Podrà veure tots els paquets i saber què fan els treballadors.
+- **Treballadors del punt de repartiment:** seran els que rebin els paquets quan arribin. Els hauran d'escanejar, posar al sistema i deixar preparats per als repartidors.
+- **Repartidors:** miraran des del mòbil quins paquets han de portar i les adreces on han d'anar. Quan entreguin un paquet, ho marcaran al sistema.
+- **Grans empreses de repartiment:** seran les empreses que portaran els paquets fins a PackGo. Per exemple, Amazon.
+- **Clients:** podran mirar si el seu paquet ja ha arribat o si encara està en camí.
 
-- **Administrador:** serà l'encarregat de controlar el sistema. Podrà consultar els paquets, organitzar els repartiments i gestionar els treballadors.
-- **Treballadors del punt de repartiment:** s'encarregaran de rebre els paquets, escanejar-los, registrar-los al sistema i preparar-los per al repartiment.
-- **Repartidors:** utilitzaran els mòbils o les tablets per veure quins paquets han de repartir, mirar les adreces i marcar els paquets com a entregats.
-- **Grans empreses de repartiment:** portaran els paquets fins als punts de PackGo. La informació que donin sobre els paquets serà necessària per poder registrar-los al sistema.
-- **Clients:** podran consultar com va el repartiment dels seus paquets per saber si ja han estat entregats o quan els arribaran.
-
-L'objectiu de PackGo és que tots aquests usuaris puguin treballar millor i que els paquets estiguin ben organitzats. D'aquesta manera, serà més fàcil repartir-los i aconseguir que arribin als seus destinataris.
+Amb PackGo volem que sigui més fàcil repartir els paquets i que els treballadors no es facin un embolic. Així, cada un sabrà què ha de fer i els clients podran rebre els seus paquets sense problemes.
