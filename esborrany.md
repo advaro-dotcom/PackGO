@@ -25,4 +25,4 @@ Aquí adjuntaré un parell d'esquemes del meu projecte.
 
 <br>
 
-<img src="EsquemaPackGo2.png" alt="Esquema del projecte PackGo" width="300"> <img src="EsquemaPackGo2.png" alt="Segon esquema del projecte PackGo" width="300">
+<img src="EsquemaPackGo2.png" alt="Esquema del projecte PackGo" width="300"> <img src="EsquemaPackGo1.png" alt="Segon esquema del projecte PackGo" width="300">
