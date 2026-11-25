@@ -1,6 +1,6 @@
 # 1. Composició del sistema
 
-PackGo servirà per registrar i organitzar els paquets que arribin als punts de repartiment.
+PackGo servirà per registrar i organitzar els paquets que arribin als punts de repartiment, és a dir hi haurà un punt on les empreses grans deixaran el paquet i nosaltres els farem arribar als seus destins.
 
 # 2. Estructura del sistema
 
